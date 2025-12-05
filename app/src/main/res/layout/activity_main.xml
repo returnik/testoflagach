@@ -52,6 +52,7 @@
             android:layout_weight="1"
             android:backgroundTint="#ffffff"
             android:layout_margin="8dp"
+            android:onClick="ok"
             android:textColor="#111111"
             />
     </LinearLayout>
@@ -68,6 +69,7 @@
             android:layout_weight="1"
             android:backgroundTint="#FF0000"
             android:layout_margin="8dp"
+            android:onClick="ok"
              />
 
         <Button
