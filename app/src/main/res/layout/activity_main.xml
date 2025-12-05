@@ -12,13 +12,14 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/polecenie"
+        android:id="@+id/polecenia"
         android:textSize="24sp"
         android:textColor="#000000"
         android:layout_margin="16dp"
         android:padding="8dp"
         android:textAlignment="center"
-        android:text="Kliknij kolory ktorych nie ma w fladze Polski " />
+        android:text="@string/polecenie"
+        />
 
     <LinearLayout
         android:layout_width="match_parent"

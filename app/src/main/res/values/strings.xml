@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">testoflagach</string>
+    <string name="polecenie">Click on the colors that are not in the Polish flag</string>
 </resources>

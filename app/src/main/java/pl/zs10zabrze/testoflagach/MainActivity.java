@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        textview = findViewById(R.id.polecenie);
+        textview = findViewById(R.id.polecenia);
     }
 
     public void ukryj(View view) {
